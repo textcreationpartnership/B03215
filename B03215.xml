@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy on the death of the author of the Characters, &amp;c. Of the ladies invention, who dyed on the 13th of this instant May at the Rose spunging-house in Woodstreet, under an arrest. / written by a Young Gentleman whom he had abus'd in his Characters.</title>
+            <author>Young Gentleman.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03215</idno><idno type="EEBO-CITATION">99886981</idno>
+  <idno type="VID">181620</idno>
+  <idno type="EEBO-PROQUEST">2264218105</idno>
+  
+            <idno type="STC">Wing E394A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[298]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[97]</idno>
+            <idno type="PROQUEST">ocm99886981</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181620)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[301]; A8:1[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy on the death of the author of the Characters, &amp;c. Of the ladies invention, who dyed on the 13th of this instant May at the Rose spunging-house in Woodstreet, under an arrest. / written by a Young Gentleman whom he had abus'd in his Characters.</title>
+                  <author>Young Gentleman.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Single column of text, initial.</note>
+                  <note>First line: "He's dead!  Lament ye mercuries and hawkers."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Elegiac poetry, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:181620:1"/>
+            <head>AN ELEGY</head>
+            <argument>
+               <p>On the Death of the Author of the Characters, <hi>&amp;c.</hi> Of the Ladies In<g ref="char:EOLhyphen"/>vention, who dyed on the 13th of this instant <hi>May</hi> at the <hi>Rose</hi> Spunging-house in <hi>Woodstreet,</hi> under an Arrest. Written by a Young Gentleman whom he had abus'd in his Characters.</p>
+            </argument>
+            <lg>
+               <l>HE's Dead! Lament ye <hi>Mercuries</hi> and <hi>Hawkers▪</hi>
+               </l>
+               <l>And Mourn his timeless Fall ye <hi>Tavern-Chalkers.</hi>
+               </l>
+               <l>Death, cruel Death, who's merciful to no Man,</l>
+               <l>Has done more harm than <hi>Iohnson</hi> and his <hi>Yeoman;</hi>
+               </l>
+               <l>The Seizure of his Body <hi>Their</hi> Offence is,</l>
+               <l>But <hi>She</hi> (Curse on her) captivates his Senses▪</l>
+               <l>And stops that Tongue, so harden'd is her Conscience,</l>
+               <l>Which dar'd, what e'er came of't, to prat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Nonsense.</l>
+            </lg>
+            <lg>
+               <l>Who now shall set <hi>White-Fryers Crew</hi> a Roaring?</l>
+               <l>And countenance the noble Art of <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oring?</hi>
+               </l>
+               <l>O <hi>P—s</hi> to thy great Example's owing,</l>
+               <l>That many a Printing-Press is n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w a going;</l>
+               <l>That <hi>Bars</hi> are whit'ned by Poetick Debtors,</l>
+               <l>And many a Name is <hi>Book'd</hi> in ample Letters;</l>
+               <l>And should thy Vertues want to be recorded,</l>
+               <l>Or thy transcendent Worth be unrew<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ded,</l>
+               <l>How would this thankless Age be call'd ungrateful!</l>
+               <l>And Sots hereafter go without their Pateful!</l>
+               <l>Since therefore <hi>B—t,</hi> nor his Father <hi>R—r</hi>
+               </l>
+               <l>Will hire a Muse to praise their Hackny-Toper▪</l>
+               <l>Ev'n I unknown to Verse, a Young Beginner</l>
+               <l>Will dare to sing our late departed Sinner.</l>
+            </lg>
+            <lg>
+               <l>First for his <hi>Courage,</hi> hear of what I'm treating,</l>
+               <l>He dar'd deserve, and sometimes stood a Beating;</l>
+               <l>Nor was our Rhiming Heroe e'er afraid,</l>
+               <l>Of Wife, or Widow, Spinster, or of Maid;</l>
+               <l>All were abus'd, as was his just intention,</l>
+               <l>And underwent the Lash of his <hi>Invention:</hi>
+               </l>
+               <l>And though a <hi>Learned Legislator</hi> swore it,</l>
+               <l>That <hi>Killing Horses</hi> had no Sin before it,</l>
+               <l>And told a vile Offender as his Sentence,</l>
+               <l>
+                  <hi>Such Righteous Blood</hi> deserv'd a true <hi>Repentance;</hi>
+               </l>
+               <l>He would not own the Doctrine which was taught here,</l>
+               <l>But Swore <hi>Horse Murder,</hi> could not be <hi>Man-slaughter.</hi>
+               </l>
+               <l>Bold Youth! t' oppose a Man whose Learning reaches</l>
+               <l>As far as <hi>Post</hi> or <hi>Carrier</hi> bears his <hi>Speeches;</hi>
+               </l>
+               <l>And who durst call his Majesty most Christian,</l>
+               <l>
+                  <hi>A Son of Mahomet,</hi> a mere <hi>Philistian,</hi>
+               </l>
+               <l>And in a trice, a new Disguise to try on,</l>
+               <l>Give him Huge <hi>W<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>kers,</hi> and pronounce him <hi>Lyon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next, for his <hi>Iustice,</hi> it must be confess'd,</l>
+               <l>I want due weight of Words to have 't express'd.</l>
+               <l>As He without exception ran in Debt</l>
+               <l>With all who'd trust Twelve Penny-worth of Wet.</l>
+               <pb facs="tcp:181620:2"/>
+               <l>So all alike impartially were paid,</l>
+               <l>No diff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rence us'd, and no distinction made.</l>
+               <l>Witness both <hi>Ale,</hi> and <hi>Wine,</hi> how he could tick it,</l>
+               <l>And be his Advocates both <hi>Tap,</hi> and <hi>Spicket;</hi>
+               </l>
+               <l>For ye best know the methods of his dealing,</l>
+               <l>If Knowledge chiefly does consist in <hi>Feeling.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, Grief prevails, and gains upon my Spirits,</l>
+               <l>And I must e'en pass by his other Merits,</l>
+               <l>For who can sing, and not be broken-hearted</l>
+               <l>So Learn'd a <hi>Soul,</hi> from such a Corps departed:</l>
+               <l>Methinks I see him sitting at the <hi>Goat,</hi>
+               </l>
+               <l>His <hi>Wig</hi> untwisted, and unlin'd his <hi>Coat,</hi>
+               </l>
+               <l>His <hi>Eyes</hi> just dropping out, his <hi>Cheeks</hi> a glowing,</l>
+               <l>His <hi>Head</hi> a swimming and his <hi>Tongue</hi> a going;</l>
+               <l>One <hi>Hand</hi> the <hi>Pot,</hi> is grasping by the Handle,</l>
+               <l>And t' other deals about his Stock of <hi>Scandal;</hi>
+               </l>
+               <l>Whilst <hi>Porters</hi> laugh, and many a <hi>Trading Fool</hi>
+               </l>
+               <l>Wishes <hi>his Friends had sent him too to School;</hi>
+               </l>
+               <l>Whilst <hi>Lewis</hi> shakes his sides, and Men of <hi>Wales</hi>
+               </l>
+               <l>Leave <hi>Toasted Cheese</hi> to feed upon <hi>Tales.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, why alas! am I thus long deceiv'd?</l>
+               <l>And fancy Life in one of Life bereav'd?</l>
+               <l>Yonder He lies, and breathless is his Carkass,</l>
+               <l>Damn't, I could almost swear, 'tis such a hard case.</l>
+               <l>O *<hi>Loury,</hi> what the Devil didst thou mean<note place="margin">A sort of an ill-fav<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r'd Turn-key to the Sp<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ging<g ref="char:EOLhyphen"/>house.</note>
+               </l>
+               <l>To let thy Face within his Room be seen?</l>
+               <l>
+                  <hi>Medusa</hi> like thou hast the <hi>Bard</hi> enchanted,</l>
+               <l>And struck Him quite Stone-dead, it must be granted.</l>
+               <l>Henceforth, thou Squint-ey'd Man of Sin, may ne'er</l>
+               <l>A Debtor come beneath thy Key, and care,</l>
+               <l>But what is Penny-less, and being trusted</l>
+               <l>Shall make's Escape, and leave it unadjusted,</l>
+               <l>Whilst naught in's stead, but <hi>Lice</hi> and <hi>Itch</hi> is left,</l>
+               <l>And that, for thy great care, shall be thy gift.</l>
+               <l>May <hi>Compter Locusts</hi> after these thy Losses</l>
+               <l>Side with the <hi>Lice,</hi> and multiply thy Crosses,</l>
+               <l>And both these Vermin lovingly agreed,</l>
+               <l>On <hi>Thee,</hi> as thou on <hi>Men</hi> are wont to feed,</l>
+               <l>Till thou into a Goal thy self art hurried.</l>
+               <l>And <hi>dyest,</hi> art <hi>damn'd,</hi> and afterwards <hi>unburied.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But I too long my Tears, and Sighs have spent,</l>
+               <l>And fruitless Vows for P.— upward sent,</l>
+               <l>To Verse in vain my Sorrows l've digested,</l>
+               <l>He'll ne'er return again to be <hi>Arrested!</hi>
+               </l>
+               <l>Yet, Heav'n (though he by it's Decrees is dead)</l>
+               <l>Has left a young <hi>Ascanous</hi> in his stead.</l>
+               <l>
+                  <hi>Nonsense</hi> shall never fail, or <hi>Scandal</hi> falter,</l>
+               <l>Since, <hi>Uno avulso non deficit aureus Alter.</hi>
+               </l>
+               <l>Oh! how the Bard in his Successor shines!</l>
+               <l>And <hi>stinking</hi> Thoughts adorn his <hi>shitten</hi> Lines!</l>
+               <l>
+                  <hi>Strong</hi> is his Sense, and <hi>loathsome</hi> e'vry word,</l>
+               <l>As he describes a Temple, or a Turd:</l>
+               <l>Nor shall our Author's just resemblance dye,</l>
+               <l>While <hi>How</hi> shall dare to print the <hi>London</hi> Spy.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>The EPITAPH.</head>
+            <lg>
+               <l>REader, beneath this Turf <hi>I</hi> lie,</l>
+               <l>And <hi>I</hi> am e'en content;</l>
+               <l>Piss if you please, pray what care <hi>I?</hi>
+               </l>
+               <l>Since now my life is spent.</l>
+               <l>A Marble Stone indeed might keep</l>
+               <l>My Body from the Weather,</l>
+               <l>And gather People as <hi>I</hi> sleep,</l>
+               <l>And call more Fools together:</l>
+               <l>But had'st thou been from whence <hi>I</hi> came,</l>
+               <l>Thou'dst never mince the matter,</l>
+               <l>But show thy Sentiments the same,</l>
+               <l>And hate <hi>Stone-doublets</hi> after.</l>
+               <l>
+                  <hi>I</hi>'m dead, and that's enough t'acquaint</l>
+               <l>A Man of any Sense,</l>
+               <l>That if he's looking for a Saint,</l>
+               <l>He must go farther hence.</l>
+               <l>Between two <hi>Roses</hi> down <hi>I</hi> fell.</l>
+               <l>As 'twixt two <hi>Stools</hi> a <hi>Platter.</hi>
+               </l>
+               <l>O<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld me up exceeding well,</l>
+               <l>T'other did no such matter.</l>
+               <l>The <hi>Rose by Temple-bar</hi> gave Wine</l>
+               <l>Exchang'd for <hi>Chalk,</hi> and fill'd me,</l>
+               <l>But being for the <hi>ready Coyn,</hi>
+               </l>
+               <l>
+                  <hi>The Rose in Wood<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>et</hi> kill'd me.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
